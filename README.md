@@ -51,7 +51,7 @@ Full-stack developer from Thailand 🇹🇭 who builds end-to-end products — f
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Household Expense Bot**](https://github.com/yutinfo/Household-Expense) | LINE group bot for family bookkeeping: type `ค่าส้มตำ 200` in plain Thai and it categorises, logs to Google Sheets and summarises. Signed webhook via Cloudflare Worker, logic in Apps Script, 117 automated tests. | Cloudflare Workers · Google Apps Script · LINE Messaging API |
+| **Household Expense Bot** _(private, in progress)_ | LINE group bot for family bookkeeping: type `ค่าส้มตำ 200` in plain Thai and it categorises, logs to Google Sheets and summarises. Signed webhook via Cloudflare Worker, logic in Apps Script, 117 automated tests. | Cloudflare Workers · Google Apps Script · LINE Messaging API |
 | **KK Hotel** (design system) | End-to-end hotel booking UX in Figma: search, room select, payment, AI trip planner, back-office (refunds, fraud, reconciliation), error states and component language. | Figma · Design tokens · Handoff spec |
 | **Odoo ERP customisation** | Odoo 19 implementation for an e-commerce retailer: purchase, inventory, budget, accounting and rental modules driven by a BRD knowledge vault and 240+ documented process flows. | Odoo 19 · Python · PostgreSQL · Docker |
 
