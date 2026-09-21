@@ -29,7 +29,7 @@ Full-stack developer from Thailand 🇹🇭 who builds end-to-end products — f
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**DevHero**](https://github.com/yutinfo/dev-hero) · [live](https://dev-hero-steel.vercel.app) | Suite of dev utilities: Base64, JSON (Monaco), live HTML editor, Lorem Ipsum, mock images and Thai/English synthetic data generator. | Next.js 14 · TypeScript · Tailwind |
-| [**JSON Studio**](https://github.com/yutinfo/jsonStudio) | Zero-build browser JSON viewer/editor: raw editor with live validation, collapsible pretty view, editable tree view and search. | HTML · Vanilla JS · Tailwind |
+| [**JSON Studio**](https://github.com/yutinfo/jsonStudio) · [live](https://json-studio-taupe.vercel.app) | Zero-build browser JSON viewer/editor: raw editor with live validation, collapsible pretty view, editable tree view and search. | HTML · Vanilla JS · Tailwind |
 | [**Prompt Benchmark**](https://github.com/yutinfo/prompt-benchmark) | Side-by-side "bad vs good" prompt cases for measuring how prompt quality affects AI-generated front-end code. | Markdown · HTML |
 
 ### AI & desktop
